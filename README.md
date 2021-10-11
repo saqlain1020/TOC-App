@@ -19,5 +19,12 @@ In the advancing world of today, the one thing that's of too much value is being
 
 #### Competitor
 Unlike [***popl***](https://popl.co/), swippy allows you to share QR Code along with URL links where as the former allows only URL links.
+ the preferred profile of the user straight from the notification pop-up.
 
-We have to accept that it’s not that easy to manage multiple profiles so if a user prefers a certain profile, they can star it and turn the “Direct” option On, which allows others to instantly open the preferred profile of the user straight from the notification pop-up.
+We have to accept that it’s not that easy to manage multiple profiles so if a user prefers a certain profile, they can star it and turn the “Direct” option On, which allows others to instantly open
+
+#### Stakeholders
+Our Stakeholders can be big business clients and **Ad** companies, As we will be providing a way of marketing social platforms and some companies can pay us for their spot on our top social links list. But for the starting of this project the stakeholders will be all the 5 members which will be dedicating their time to this project.
+
+#### Customers
+Our initial customers will be the circle of tehnical people within the boundaries of this project and our classmates, who will test and give feedback on this application and may very well be our potential buyers or ***stakeholders***
