@@ -17,6 +17,7 @@ In the advancing world of today, the one thing that's of too much value is being
 - Star your profiles and add them to your favourites.
 - Swippy stickers send a notification to open a profile just on the tap of your phones.
 
-Unlike popl, swippy allows you to share QR Code along with URL links where as the former allows only URL links.
+#### Competitor
+Unlike [***popl***](https://popl.co/), swippy allows you to share QR Code along with URL links where as the former allows only URL links.
 
 We have to accept that it’s not that easy to manage multiple profiles so if a user prefers a certain profile, they can star it and turn the “Direct” option On, which allows others to instantly open the preferred profile of the user straight from the notification pop-up.
